@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\charm\\Documents\\Development\\Learnings\\ArchiLogApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90555945-1B2B-48C1-ADEC-12112915786B}|ArchiLogApi.csproj|c:\\users\\charm\\documents\\development\\learnings\\archilogapi\\data\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90555945-1B2B-48C1-ADEC-12112915786B}|ArchiLogApi.csproj|solutionrelative:data\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90555945-1B2B-48C1-ADEC-12112915786B}|ArchiLogApi.csproj|c:\\users\\charm\\documents\\development\\learnings\\archilogapi\\data\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90555945-1B2B-48C1-ADEC-12112915786B}|ArchiLogApi.csproj|solutionrelative:data\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D0581F-6CD2-483B-857A-3D104679DE69}|..\\ApiClassLibrary\\ApiClassLibrary.csproj|c:\\users\\charm\\documents\\development\\learnings\\apiclasslibrary\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90555945-1B2B-48C1-ADEC-12112915786B}|ArchiLogApi.csproj|c:\\users\\charm\\documents\\development\\learnings\\archilogapi\\data\\archilogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90555945-1B2B-48C1-ADEC-12112915786B}|ArchiLogApi.csproj|solutionrelative:data\\archilogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\charm\\Documents\\Development\\Learnings\\ArchiLogApi\\Migrations\\20250124152548_CreateReservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250124152548_CreateReservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90555945-1B2B-48C1-ADEC-12112915786B}|ArchiLogApi.csproj|c:\\users\\charm\\documents\\development\\learnings\\archilogapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90555945-1B2B-48C1-ADEC-12112915786B}|ArchiLogApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90555945-1B2B-48C1-ADEC-12112915786B}|ArchiLogApi.csproj|c:\\users\\charm\\documents\\development\\learnings\\archilogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90555945-1B2B-48C1-ADEC-12112915786B}|ArchiLogApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90555945-1B2B-48C1-ADEC-12112915786B}|ArchiLogApi.csproj|c:\\users\\charm\\documents\\development\\learnings\\archilogapi\\migrations\\20250124140146_createcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90555945-1B2B-48C1-ADEC-12112915786B}|ArchiLogApi.csproj|solutionrelative:migrations\\20250124140146_createcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\charm\\Documents\\Development\\Learnings\\ApiClassLibrary\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "..\\ApiClassLibrary\\Models\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\charm\\Documents\\Development\\Learnings\\ApiClassLibrary\\Models\\BaseModel.cs",
+              "RelativeToolTip": "..\\ApiClassLibrary\\Models\\BaseModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T15:41:05.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\charm\\Documents\\Development\\Learnings\\ArchiLogApi\\Data\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\charm\\Documents\\Development\\Learnings\\ArchiLogApi\\Data\\Models\\Reservation.cs",
+              "RelativeToolTip": "Data\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:45:17.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\charm\\Documents\\Development\\Learnings\\ArchiLogApi\\Data\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\charm\\Documents\\Development\\Learnings\\ArchiLogApi\\Data\\Models\\Car.cs",
+              "RelativeToolTip": "Data\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T11:38:24.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArchiLogDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\charm\\Documents\\Development\\Learnings\\ArchiLogApi\\Data\\ArchiLogDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ArchiLogDbContext.cs",
+              "ToolTip": "C:\\Users\\charm\\Documents\\Development\\Learnings\\ArchiLogApi\\Data\\ArchiLogDbContext.cs",
+              "RelativeToolTip": "Data\\ArchiLogDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T15:24:35.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250124152548_CreateReservation.cs",
+              "DocumentMoniker": "C:\\Users\\charm\\Documents\\Development\\Learnings\\ArchiLogApi\\Migrations\\20250124152548_CreateReservation.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250124152548_CreateReservation.cs",
+              "ToolTip": "C:\\Users\\charm\\Documents\\Development\\Learnings\\ArchiLogApi\\Migrations\\20250124152548_CreateReservation.cs",
+              "RelativeToolTip": "Migrations\\20250124152548_CreateReservation.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T15:25:48.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\charm\\Documents\\Development\\Learnings\\ArchiLogApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\charm\\Documents\\Development\\Learnings\\ArchiLogApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T14:27:52.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\charm\\Documents\\Development\\Learnings\\ArchiLogApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\charm\\Documents\\Development\\Learnings\\ArchiLogApi\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T14:27:07.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250124140146_CreateCar.cs",
+              "DocumentMoniker": "C:\\Users\\charm\\Documents\\Development\\Learnings\\ArchiLogApi\\Migrations\\20250124140146_CreateCar.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250124140146_CreateCar.cs",
+              "ToolTip": "C:\\Users\\charm\\Documents\\Development\\Learnings\\ArchiLogApi\\Migrations\\20250124140146_CreateCar.cs",
+              "RelativeToolTip": "Migrations\\20250124140146_CreateCar.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:01:47.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

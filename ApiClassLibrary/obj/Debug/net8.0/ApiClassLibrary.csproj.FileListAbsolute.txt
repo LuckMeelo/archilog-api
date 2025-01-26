@@ -1,0 +1,14 @@
+C:\Users\charm\Documents\Development\Learnings\ApiClassLibrary\bin\Debug\net8.0\ApiClassLibrary.deps.json
+C:\Users\charm\Documents\Development\Learnings\ApiClassLibrary\bin\Debug\net8.0\ApiClassLibrary.runtimeconfig.json
+C:\Users\charm\Documents\Development\Learnings\ApiClassLibrary\bin\Debug\net8.0\ApiClassLibrary.dll
+C:\Users\charm\Documents\Development\Learnings\ApiClassLibrary\bin\Debug\net8.0\ApiClassLibrary.pdb
+C:\Users\charm\Documents\Development\Learnings\ApiClassLibrary\obj\Debug\net8.0\ApiClassLibrary.csproj.AssemblyReference.cache
+C:\Users\charm\Documents\Development\Learnings\ApiClassLibrary\obj\Debug\net8.0\ApiClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charm\Documents\Development\Learnings\ApiClassLibrary\obj\Debug\net8.0\ApiClassLibrary.AssemblyInfoInputs.cache
+C:\Users\charm\Documents\Development\Learnings\ApiClassLibrary\obj\Debug\net8.0\ApiClassLibrary.AssemblyInfo.cs
+C:\Users\charm\Documents\Development\Learnings\ApiClassLibrary\obj\Debug\net8.0\ApiClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\charm\Documents\Development\Learnings\ApiClassLibrary\obj\Debug\net8.0\ApiClassLibrary.dll
+C:\Users\charm\Documents\Development\Learnings\ApiClassLibrary\obj\Debug\net8.0\refint\ApiClassLibrary.dll
+C:\Users\charm\Documents\Development\Learnings\ApiClassLibrary\obj\Debug\net8.0\ApiClassLibrary.pdb
+C:\Users\charm\Documents\Development\Learnings\ApiClassLibrary\obj\Debug\net8.0\ApiClassLibrary.genruntimeconfig.cache
+C:\Users\charm\Documents\Development\Learnings\ApiClassLibrary\obj\Debug\net8.0\ref\ApiClassLibrary.dll

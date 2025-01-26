@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wOqSYTiA96YC4eaeseCiJZFsD3baYKQnGeorTd8hCUE=",
+  "Source": "ArchiLogApi",
+  "BasePath": "_content/ArchiLogApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
